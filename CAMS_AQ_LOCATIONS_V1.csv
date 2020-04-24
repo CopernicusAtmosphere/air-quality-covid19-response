@@ -1,0 +1,51 @@
+id,country,name,country_code,latitude,longitude
+AQ001,Netherlands,Amsterdam,NL,52.35,4.92
+AQ002,Turkey,Ankara,TR,39.93,32.87
+AQ003,Greece,Athens,GR,37.98,23.73
+AQ004,Spain,Barcelona,ES,41.38,2.18
+AQ005,Serbia,Belgrade,RS,44.83,20.50
+AQ006,Germany,Berlin,DE,52.52,13.40
+AQ007,Switzerland,Bern,CH,46.92,7.47
+AQ008,United Kingdom,Birmingham,GB,52.48,1.89
+AQ009,Slovakia,Bratislava,SK,48.15,17.12
+AQ010,Belgium,Brussels,BE,50.83,4.33
+AQ011,Romania,Bucharest,RO,44.43,26.10
+AQ012,Hungary,Budapest,HU,47.50,19.08
+AQ013,Germany,Cologne,DE,50.94,6.95
+AQ014,Denmark,Copenhagen,DK,55.67,12.58
+AQ015,Ireland,Dublin,IE,53.32,-6.23
+AQ016,Germany,Hamburg,DE,53.57,10.00
+AQ017,Finland,Helsinki,FI,60.17,24.93
+AQ018,Portugal,Lisbon,PT,38.72,-9.13
+AQ019,Slovenia,Ljubljana,SI,46.05,14.52
+AQ020,United Kingdom,London,GB,51.50,-0.08
+AQ021,Luxembourg,Luxembourg,LU,49.60,6.12
+AQ022,France,Lyon,FR,45.76,4.85
+AQ023,Spain,Madrid,ES,40.40,-3.68
+AQ024,France,Marseille,FR,43.30,5.37
+AQ025,Italy,Milan,IT,45.47,9.18
+AQ026,Monaco,Monaco,MC,43.73,7.42
+AQ027,Germany,Munich,DE,48.13,11.57
+AQ028,Italy,Naples,IT,40.86,14.25
+AQ029,Cyprus,Nicosia,CY,35.17,33.37
+AQ030,Norway,Oslo,NO,59.92,10.75
+AQ031,France,Paris,FR,48.87,2.33
+AQ032,Montenegro,Podgorica,ME,42.43,19.27
+AQ033,Czech Republic,Prague,CZ,50.08,14.47
+AQ034,Kosovo,Pristina,KO,42.67,21.17
+AQ035,Iceland,Reykjavik,IS,64.15,-21.95
+AQ036,Latvia,Riga,LV,56.95,24.10
+AQ037,Italy,Rome,IT,41.90,12.48
+AQ038,Bosnia and Herzegovina,Sarajevo,BA,43.87,18.42
+AQ039,Macedonia,Skopje,MK,42.00,21.43
+AQ040,Bulgaria,Sofia,BG,42.68,23.32
+AQ041,Sweden,Stockholm,SE,59.33,18.05
+AQ042,Estonia,Tallinn,EE,59.43,24.72
+AQ043,Albania,Tirana,AL,41.32,19.82
+AQ044,Italy,Turin,IT,45.12,7.74
+AQ045,Spain,Valencia,ES,39.47,-0.38
+AQ046,Malta,Valletta,MT,35.88,14.50
+AQ047,Austria,Vienna,AT,48.20,16.37
+AQ048,Lithuania,Vilnius,LT,54.68,25.32
+AQ049,Poland,Warsaw,PL,52.25,21.00
+AQ050,Croatia,Zagreb,HR,45.80,16.00
